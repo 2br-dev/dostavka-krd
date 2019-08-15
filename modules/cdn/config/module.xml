@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">CDN</name>
+        <description multilanguage="true">CDN - ускорение загрузки Web-контента</description>
+        <version>3.0.4</version>
+        <author>ReadyScript lab.</author>
+        <is_system>1</is_system>
+        <cdn_elements type="array">
+            <value>js</value>
+            <value>img</value>
+        </cdn_elements>
+    </defaultValues>
+</config>

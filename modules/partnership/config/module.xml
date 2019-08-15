@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Партнерский модуль</name>
+        <description multilanguage="true">Позволяет продавать ваши товары партнерам с наценкой. Партнер идентифицируется по доменному имени</description>
+        <version>4.0.9</version>
+        <author>ReadyScript lab.</author>
+        <is_system>1</is_system>
+        <dependfrom>catalog,shop</dependfrom>
+    </defaultValues>
+</config>

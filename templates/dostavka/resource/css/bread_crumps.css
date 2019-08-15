@@ -1,0 +1,30 @@
+.bread_crumps {
+    width: 100%;
+}
+.bread_crumps_screen {
+    max-width: 1400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 25px 0;
+    display: flex;
+    align-items: center;
+}
+
+.bread_crumps_link {
+    font-size: 12px;
+    cursor: pointer;
+    display: block;
+}
+.bread_crumps_link::after {
+    content: '>';
+    margin: 0 10px;
+}
+.bread_crumps_link:last-child::after {
+    content: '';
+    margin: 0;
+}
+@media screen and (max-width: 768px) {
+    .bread_crumps {
+        display: none;
+    }
+}

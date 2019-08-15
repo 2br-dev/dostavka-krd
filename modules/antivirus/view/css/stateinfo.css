@@ -1,0 +1,265 @@
+.stateinfo .information {
+    margin:7px 22px 0;    
+    border-bottom:1px dotted #eee;
+
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display:flex;
+
+    -webkit-justify-content: space-between;
+    -ms-justify-content: space-between;
+    justify-content: space-between;
+
+    -webkit-align-items: center;
+    -ms-align-items: center;
+    align-items: center;
+
+    height:50px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+}
+
+.stateinfo .information .state {
+    -webkit-flex: 0 0 27px;
+    -ms-flex: 0 0 27px;
+    flex:0 0 27px;
+}
+
+.stateinfo .information .section {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex:1;
+}
+
+.stateinfo .information .title {
+    font-size:14px;
+    color:#3f3f3f;
+    font-weight:bold;
+}
+
+.stateinfo .information .last-cycle {
+    font-size:11px;
+    color:#666;
+}
+
+.stateinfo .scan .actions,
+.stateinfo .problem .actions,
+.stateinfo .information .actions {
+    width:75px;
+    float:right;
+    padding-top:8px;
+    text-align:right;
+}
+
+.stateinfo .problem .actions .run,
+.stateinfo .information .actions .run {
+    width:29px;
+    height:29px;
+    display:inline-block;
+    border-radius:50%;
+    background:#ededed url(../img/play.svg) no-repeat 11px center;
+}
+
+.stateinfo .problem .actions .run:hover,
+.stateinfo .information .actions .run:hover {
+    background-color: #71b422;
+    background-position:-16px center;
+}
+
+.stateinfo .problem .actions .report,
+.stateinfo .information .actions .report {
+    width:29px;
+    height:29px;
+    display:inline-block;
+    background:url(../img/report.svg) no-repeat 8px center;
+    border:2px solid transparent;
+    border-radius:50%;
+}
+
+.stateinfo .information .actions .report:hover {
+    background-color:#e2e2e2;
+    background-position:-20px center;
+}
+
+.stateinfo .problem .actions .report:hover {
+    border:2px solid white;
+}
+
+.stateinfo .problem .actions {
+    padding-top:0;
+}
+
+.stateinfo .problem .actions .report {
+    background-position:-20px center;
+}
+
+.stateinfo .information .ok {
+    background:#71b422;
+    width:16px;
+    height:16px;
+    display:inline-block;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+            border-radius:10px;
+}
+
+.stateinfo .information .text {
+    color:#3d4754;
+    padding-top:8px;
+}
+
+.stateinfo .information .one-line .text {
+    padding-top:0;
+    line-height:50px;
+}
+
+.stateinfo .information .date {
+    color:#aaa;
+    font-size:11px;
+}
+
+.stateinfo .stateinfo-footer {
+    border-top:1px solid #e5e5e5;
+    margin:10px 22px 0;
+    padding:20px 6px 20px 0;
+}
+
+.stateinfo .stateinfo-footer .trustzone,
+.stateinfo .stateinfo-footer .settings {
+    float:right;
+    width:20px;
+    height:20px;
+    background:url(../img/options.png) no-repeat;
+    opacity:0.5;
+    display:inline-block;
+    margin-left:17px;
+}
+
+.stateinfo .stateinfo-footer .trustzone {
+    background:url(../img/trust.png) no-repeat;
+}
+
+.stateinfo .stateinfo-footer .trustzone:hover,
+.stateinfo .stateinfo-footer .settings:hover {
+    opacity:1;
+}
+
+.stateinfo .stateinfo-footer .protect-img,
+.stateinfo .stateinfo-footer .protect {
+    vertical-align:middle;
+}
+
+.stateinfo .stateinfo-footer .protect {
+    margin-left:10px;
+    color: #777;
+}
+
+.stateinfo .stateinfo-antivirus .information {
+    border-bottom:0;
+}
+
+.stateinfo .stateinfo-checksum .scan,
+.stateinfo .stateinfo-checksum .information {
+    margin-top:15px;
+    padding-top:0;    
+}
+
+.stateinfo .stateinfo-checksum .problem {
+    margin-top:3px;
+}
+
+.stateinfo .trouble {
+    background: #ffdf71;
+    padding:25px 22px;
+    min-height: 50px;
+}
+
+.stateinfo .trouble p {
+    margin:0 0 16px;
+}
+
+.stateinfo .stateinfo-button {
+    padding:0 10px;
+    height:31px;
+    line-height:31px;
+    display:inline-block;
+    margin-bottom:3px;
+    border-radius:20px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;;
+}
+
+.stateinfo .stateinfo-button:hover {
+    opacity:0.9;
+    color:black;
+}
+
+.stateinfo .stateinfo-button.white-fill {
+    background: white;
+    border:2px solid white;
+}
+
+.stateinfo .stateinfo-button.white-border {
+    border:2px solid white;
+    color:white;
+}
+
+.stateinfo .stateinfo-button.white-border:hover {
+    background-color:white;
+    color:black;
+}
+
+.stateinfo .stateinfo-button.gray-fill {
+    background:#e2e2e2;
+}
+
+.stateinfo .problem {
+    background:#fa5b45;
+    padding:18px 23px;
+    color:white;
+    margin:0 -1px 3px;
+}
+
+.stateinfo .problem p {
+    margin:0 0 16px;
+    line-height:20px;
+}
+
+.stateinfo .problem-info {
+    margin-right:100px;
+}
+
+.stateinfo .scan {
+    background: #fbfbfb;
+    height:50px;
+    position:relative;
+    padding:0 22px;    
+}
+
+.stateinfo .scan .progress {
+    height:50px;
+    background:#a2d960;
+    position:absolute;
+    top:0;
+    left:0;
+}
+
+.stateinfo .scan .info,
+.stateinfo .scan .actions {
+    position:relative;
+}
+
+.stateinfo .scan .info {
+    font-size:12px;
+    height:50px;
+    line-height:50px;
+    margin-right:80px;
+}
+
+.stateinfo .small-text {
+    display:none;
+}

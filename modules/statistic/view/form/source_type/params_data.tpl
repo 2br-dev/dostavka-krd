@@ -1,0 +1,1 @@
+{include file="%system%/admin/keyvaleditor.tpl" field_name="_params" arr=$elem.params_arr}

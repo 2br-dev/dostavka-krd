@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Цветовая схема</name>
+        <description multilanguage="true">Описание цветовой схемы</description>        
+        <version>1.0.0</version>
+        <author>2br</author>  
+    </defaultValues>      
+</config>

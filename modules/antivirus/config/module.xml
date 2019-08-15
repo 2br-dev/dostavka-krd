@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>    
+        <name multilanguage="true">Антивирус</name>
+        <description multilanguage="true">Проверка целостности и поиск вирусов</description>
+        <version>4.0.5</version>
+        <author>Автор модуля: ReadyScript lab. 
+
+Компонент поиска вирусов использует открытые библиотеки и вирусные сигнатуры продукта Яндекс.Манул.
+Авторы: Peter Volkov, Greg Zemskov.
+Сайт: https://github.com/antimalware/manul
+        </author>
+        <is_system>1</is_system>
+
+        <signverify_step_size>50</signverify_step_size>
+        <signverify_step_size_intensive>500</signverify_step_size_intensive>
+        <signverify_auto_recover>0</signverify_auto_recover>
+
+        <antivirus_step_size>10</antivirus_step_size>
+        <antivirus_step_size_intensive>100</antivirus_step_size_intensive>
+        <antivirus_max_file_size_kb>512</antivirus_max_file_size_kb>
+        <antivirus_auto_recover>0</antivirus_auto_recover>
+
+        <proactive_allowed_interval>1000</proactive_allowed_interval>
+        <proactive_block_duration>3600</proactive_block_duration>
+        <proactive_auto_block>0</proactive_auto_block>
+        <proactive_trigger_request_count>30</proactive_trigger_request_count>
+        <proactive_trigger_malicious_request_count>5</proactive_trigger_malicious_request_count>
+
+    </defaultValues>
+</config>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Оформление заказа на одной странице</name>
+        <description multilanguage="true">Модуль предоставляет возможность выбрать оплату, доставку, адрес на одной странице</description>
+        <version>3.0.28</version>
+        <author>ReadyScript lab.</author>
+        <default_template>default</default_template>
+    </defaultValues>
+</config>

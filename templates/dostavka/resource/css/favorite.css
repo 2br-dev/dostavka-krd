@@ -1,0 +1,244 @@
+.fav_box {
+    margin: 20px 0 0 0;
+}
+/*  */
+.fav_title {
+    font-size: 30px;
+    font-weight: bold;
+}
+/*  */
+.fav_body {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin: 20px 0 0 0;
+}
+.fav_item {
+    width: calc(100% / 4 - 60px / 4);
+    padding: 20px;
+    position: relative;
+    background: #fff;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 20px 20px 0;
+}
+.fav_item:nth-child(4n) {
+    margin: 0 0 20px 0;
+}
+/*  */
+.fav_btn_box {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.fav_btn {
+    display: block;
+    width: 25px;
+    height: 25px;
+    border:  0;
+    background-color: none;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    transition: 0.1s;
+    background-image: url(../img/dostavka/icons/favor_pack/icon_favor_7.svg);
+}
+.fav_btn.inFavorite {
+    background-image: url(../img/dostavka/icons/favor_pack/icon_favor_7_full.svg);
+}
+/*  */
+.fav_img_box {
+    width: 100%;
+    display: block;
+}
+.fav_img {
+    max-width: 160px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+}
+/*  */
+.fav_title_box {
+    margin: 10px 0 0 0;
+    width: 100%;
+    flex-grow: 1;
+}
+.fav_name {
+    font-size: 14px;
+    font-weight: normal;
+}
+/*  */
+.fav_rating_box {
+    width: 100%;
+    display: flex;
+    margin: 10px 0 0 0;
+}
+.fav_star {
+    width: 15px;
+    height: 15px;
+    margin: 0 3px 0 0;
+    background-color: transparent;
+    border: 0;
+    cursor: default;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-image: url(../img/dostavka/icons/star_pack/icon_star_grey.svg)
+}
+.fav_star_full {
+    background-image: url(../img/dostavka/icons/star_pack/icon_star_7_full.svg)
+}
+/*  */
+.fav_bottom_box {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 10px 0 0 0;
+}
+.fav_price {
+    font-size: 18px;
+    font-weight: bold;
+}
+.fav_basket {
+    /* width: 25px;
+    height: 25px;
+    border: 0;
+    font-size: 0;
+    color: transparent;
+    background-color: #4767DD;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 80%;
+    background-image: url(../img/dostavka/icons/basket_pack/icon_basket_white.svg);
+    transition: 0.1s; */
+
+
+    padding: 5px 10px;
+    border: 0;
+    font-size: 14px;
+    font-weight: bold;
+    color: #4767DD;
+    background-color: transparent;
+    cursor: pointer;
+    border: 1px solid #4767DD;
+    transition: 0.1s;
+}
+.fav_basket:hover {
+    background-color: #4767DD;
+    color: #fff;
+}
+.added.fav_basket {
+    
+}
+/*  */
+.fav_none {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 50vh;
+}
+.fav_none_text {
+    font-size: 14px;
+}
+/*  */
+/*  */
+/*  */
+@media screen and (max-width: 1000px) {
+    .fav_box {
+        margin: 15px 0 0 0;
+    }
+    /*  */
+    .fav_title {
+        font-size: 18px;
+    }
+    .fav_body {
+        margin: 15px 0 0 0;
+    }
+    /*  */
+    .fav_item {
+        width: calc(100% / 4 - 45px / 4);
+        margin: 0 15px 15px 0;
+        padding: 10px;
+    }
+    .fav_item:nth-child(4n) {
+        margin: 0 0 15px 0;
+    }
+    /*  */
+    /*  */
+    .fav_title_box {
+        margin: 5px 0 0 0;
+    }
+    .fav_name {
+        font-size: 14px;
+    }
+    /*  */
+    .fav_rating_box {
+        margin: 5px 0 0 0;
+    }
+    .fav_star {
+        width: 10px;
+        height: 10px;
+        margin: 0 1px 0 0;
+    }
+    /*  */
+    .fav_bottom_box {
+        margin: 5px 0 0 0;
+    }
+    .fav_price {
+        font-size: 14px;
+    }
+    .fav_basket {
+
+    }
+    /*  */
+    .fav_none_text {
+        font-size: 12px;
+    }
+}
+/*  */
+@media screen and (max-width: 768px) {
+    .fav_box {
+        margin: 10px 0 0 0;
+    }
+    /*  */
+    .fav_title {
+        font-size: 14px;
+    }
+    .fav_body {
+        margin: 10px 0 0 0;
+    }
+    /*  */
+    .fav_item {
+        width: calc(50% - 5px);
+        margin: 0 10px 10px 0;
+    }
+    .fav_item:nth-child(4n) {
+        margin: initial;
+    }
+    .fav_item:nth-child(2n) {
+        margin: 0 0 10px 0;
+    }
+    /*  */
+    .fav_basket {
+        width: 25px;
+        height: 25px;
+        border: 0;
+        font-size: 0;
+        color: transparent;
+        background-color: #4767DD;
+        cursor: pointer;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: 80%;
+        background-image: url(../img/dostavka/icons/basket_pack/icon_basket_white.svg);
+        transition: 0.1s;
+    }
+    .added.fav_basket {
+        background-image: url(../img/dostavka/icons/basket_pack/icon_basket_in_white.svg);
+    }
+}

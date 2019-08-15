@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "PF Beau Sans Pro";
+    src: url(fonts/PF_Beau_Sans_Pro/PFBeauSansPro-Regular.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "PF Beau Sans Pro";
+    src: url(fonts/PF_Beau_Sans_Pro/PFBeauSansPro-Bold.ttf);
+    font-weight: bold;
+}

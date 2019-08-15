@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Филиалы в городах</name>
+        <description multilanguage="true">Модуль позволяет организовывать работу со справочником городов в которых работает интернет-магазин</description>
+        <version>4.0.12</version>
+        <author>ReadyScript</author>
+        <dependfrom>catalog</dependfrom>
+        <is_system>1</is_system>
+        <geo_ip_service>ipgeobase</geo_ip_service>
+        <coord_max_distance>4</coord_max_distance>
+        <confirm_city_select>0</confirm_city_select>
+    </defaultValues>
+</config>

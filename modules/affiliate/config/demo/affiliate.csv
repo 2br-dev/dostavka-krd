@@ -1,0 +1,453 @@
+"Наименование(регион или город)";"URL имя";"Разрешить выбор данного филиала";"Тип цен";"Краткая контактная информация";"Контактная информация";Долгота;Широта;"Не выбирать данный филиал с помощью геолокации";"Порядк. №";"Филиал по умолчанию";"Выделить филиал визуально";Публичный;Заголовок;"Ключевые слова";Описание;Родитель
+"Краснодарский край";krasnodarsky-krai;0;0;;;;;1;0;0;0;1;;;;
+Москва;moskva;1;0;8-800-000-000-01;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";37.620393;55.753960;0;1;0;1;1;;;;
+"Другой город";other;1;0;8-800-000-000-02;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";;;1;22;1;1;1;;;;
+Санкт-Петербург;sanktpeterburg;1;0;8-800-000-000-03;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";30.315868;59.939095;0;9;0;1;1;;;;
+Архангельск;arhangelsk;1;0;8-800-000-000-04;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";40.516939;64.539393;0;13;0;0;1;;;;
+Астрахань;astrahan;1;0;8-800-000-000-05;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";48.033574;46.347869;0;2;0;0;1;;;;
+Белгород;belgorod;1;0;8-800-000-000-06;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";36.588849;50.597467;0;3;0;0;1;;;;
+Бийск;biysk;1;0;8-800-000-000-07;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";85.213829;52.539308;0;4;0;0;1;;;;
+Благовещенск;blagoveshchensk;1;0;8-800-000-000-08;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";55.955224;55.049854;0;5;0;0;1;;;;
+Брянск;bryansk;1;0;8-800-000-000-09;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";34.363731;53.243325;0;6;0;0;1;;;;
+"Великий Новгород";velikiy-novgorod;1;0;8-800-000-000-10;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";31.275475;58.521475;0;7;0;0;1;;;;
+Владивосток;vladivostok;1;0;8-800-000-000-11;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";131.882421;43.116391;0;8;0;0;1;;;;
+Владикавказ;vladikavkaz;1;0;8-800-000-000-12;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";44.681888;43.020603;0;10;0;0;1;;;;
+Владимир;vladimir;1;0;8-800-000-000-13;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";40.407030;56.129042;0;11;0;0;1;;;;
+Волгоград;volgograd;1;0;8-800-000-000-14;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";44.516939;48.707103;0;12;0;0;1;;;;
+Вологда;vologda;1;0;8-800-000-000-15;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";39.891568;59.220492;0;14;0;0;1;;;;
+Воронеж;voronezh;1;0;8-800-000-000-16;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";39.200287;51.661535;0;15;0;0;1;;;;
+Екатеринбург;ekaterinburg;1;0;8-800-000-000-17;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";60.605514;56.838607;0;16;0;1;1;;;;
+Иваново;ivanovo;1;0;8-800-000-000-18;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";40.973921;57.000348;0;17;0;0;1;;;;
+Ижевск;izhevsk;1;0;8-800-000-000-19;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";53.211463;56.852775;0;18;0;0;1;;;;
+Иркутск;irkutsk;1;0;8-800-000-000-20;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";104.280660;52.286387;0;19;0;0;1;;;;
+Йошкар-Ола;yoshkarola;1;0;8-800-000-000-21;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";47.899878;56.634407;0;20;0;0;1;;;;
+Казань;kazan;1;0;8-800-000-000-22;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";49.106324;55.798551;0;21;0;0;1;;;;
+Краснодар;krasnodar;1;0;8-800-000-000-23;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";38.962414;45.061512;0;0;0;1;1;;;;"Краснодарский край"
+Новороссийск;novrossiysk;1;6;8-800-000-000-24;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";37.768696;44.723521;0;1;0;0;1;;;;"Краснодарский край"
+Мытищи;mytishchi;1;0;8-800-000-000-25;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";37.736330;55.910503;0;0;0;0;1;;;;Москва
+Волоколамск;volokolamsk;1;0;8-800-000-000-26;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";35.957423;56.036251;0;1;0;0;1;;;;Москва
+Воскресенск;voskresensk;1;0;8-800-000-000-27;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";38.672410;55.319797;0;2;0;0;1;;;;Москва
+Дмитров;dmitrov;1;0;8-800-000-000-28;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";37.520015;56.344157;0;3;0;0;1;;;;Москва
+Дубна;dubna;1;0;8-800-000-000-29;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";37.167193;56.732509;0;4;0;0;1;;;;Москва
+Егорьевск;egorevsk;1;0;8-800-000-000-30;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";39.035842;55.383055;0;5;0;0;1;;;;Москва
+Волхов;volhov;1;0;8-800-000-000-31;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";32.352133;59.900534;0;0;0;0;1;;;;Санкт-Петербург
+Северодвинск;severodvinsk;1;0;8-800-000-000-32;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";39.829620;64.558186;0;0;0;0;1;;;;Архангельск
+Александров;aleksandrov;1;0;8-800-000-000-33;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";38.727558;56.397774;0;0;0;0;1;;;;Владимир
+Гусь-Хрустальный;gushrustalnyy;1;0;8-800-000-000-34;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";40.657902;55.619818;0;1;0;0;1;;;;Владимир
+Ковров;kovrov;1;0;8-800-000-000-35;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";41.311220;56.363628;0;2;0;0;1;;;;Владимир
+Петушки;petushki;1;0;8-800-000-000-36;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";39.459900;55.930967;0;3;0;0;1;;;;Владимир
+Ангарск;angarsk;1;0;8-800-000-000-37;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";103.888456;52.544889;0;0;0;0;1;;;;Иркутск
+Альметьевск;almetevsk;1;0;8-800-000-000-38;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";52.297113;54.901383;0;0;0;0;1;;;;Казань
+Зеленодольск;zelenodolsk;1;0;8-800-000-000-39;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";48.501120;55.846608;0;1;0;0;1;;;;Казань
+"Набережные Челны";naberezhnye-chelny;1;0;8-800-000-000-40;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";52.395820;55.743553;0;2;0;0;1;;;;Казань
+Нижнекамск;nizhnekamsk;1;0;8-800-000-000-41;"<h3>Наш адрес</h3>
+<p>350000, г. Выбранный, ул. Тестовая, 404</p>
+<p>Время работы: понедельник - пятница, с 10:00 до 19:00</p>
+<h3>Схема проезда</h3>
+<script charset=""utf-8"" type=""text/javascript"" src=""http://api-maps.yandex.ru/services/constructor/1.0/js/?sid=9ah1ecBfrutwDo4iOmpsXyfE1n0BZDkt&amp;width=100%&amp;height=450""></script>
+<h3>&nbsp;</h3>
+<h3>Служба поддержки клиентов</h3>
+<p>Общая служба поддержки: support@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>
+<p>Претензионный отдел: mail@your-shop.ru</p>
+<p>тел: 8-000-0000000</p>";51.814385;55.631280;0;3;0;0;1;;;;Казань

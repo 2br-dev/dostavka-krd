@@ -1,0 +1,126 @@
+.order {
+    
+}
+.order__box {
+    background: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 0 0 20px 0;
+    display: flex;
+}
+.order__box:last-child {
+    margin: 0;
+}
+/*  */
+.order__col {
+
+}
+.order__col-left {
+    flex-grow: 1;
+    flex-shrink: 1;
+    margin: 0 30px 0 0;
+}
+.order__col-right {
+    width: 250px;
+}
+.order__title-1 {
+    font-weight: bold;
+    color: #000;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+}
+.order__title-2 {
+    color: #000;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+}
+.order__status {
+    color: #000;
+    font-size: 14px;
+    margin: 0 0 20px 0;
+}
+.order__cost {
+    color: #000;
+    font-size: 18px;
+    font-weight: 700;
+    margin: 0 0 20px 0;
+}
+.order__title-3 {
+    color: #000;
+    font-size: 14px;
+}
+.order__title-4 {
+    color: #000;
+    font-size: 14px;
+}
+/*  */
+.oreder-empty {
+    padding: 100px 10px;
+    background: #fff;
+    border-radius: 5px;
+}
+.order-empty__title {
+    font-size: 14px;
+    text-align: center;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+@media screen and (max-width: 1000px) {
+    .order__box {
+        padding: 15px;
+        margin: 0 0 15px 0;
+    }
+    .order__col-left {
+        margin: 0 20px 0 0;
+    }
+    .order__col-right {
+        width: 200px;
+    }
+
+}
+@media screen and (max-width: 768px) {
+    .order__box {
+        padding: 10px;
+        margin: 0 0 10px 0;
+        flex-direction: column;
+    }
+    .order__col-left {
+        margin: 0 0 10px 0;
+    }
+    .order__col-right {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .order__title-1 {
+        margin: 0 0 10px 0;
+    }
+    .order__title-2 {
+        font-size: 12px;
+        margin: 0 0 10px 0;
+    }
+    .order__status {
+        font-size: 12px;
+        margin: 0 0 10px 0;
+    }
+    .order__cost {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+    .order__title-3 {
+        color: #000;
+        font-size: 12px;
+    }
+    .order__title-4 {
+        color: #000;
+        font-size: 12px;
+        flex-shrink: 1;
+    }
+    .order__box-2 {
+        width: 50%;
+        flex-shrink: 0;
+        margin: 0 20px 0 0;
+    }
+}

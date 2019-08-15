@@ -1,0 +1,408 @@
+/* Стили выбора дат на отдельной странице */
+/**
+.stat-date-range.page {
+    background:#767f8c;
+    padding:20px;
+    color:white;
+}
+
+.stat-date-range.page .date-presets {
+    overflow:hidden;
+    display:inline-block;
+    vertical-align: middle;
+    padding-right:1px;
+    margin-right:20px;
+}
+
+.stat-date-range.page .date-presets .item {
+    padding:0 15px;
+    background:white;
+    display:block;
+    float:left;
+    height:30px;
+    line-height:30px;
+    border:1px solid #3f3f3f;
+    margin-right:-1px;
+}
+
+.stat-date-range.page .date-presets .item.act {
+    background:#ffdf71;
+}
+
+.stat-date-range.page .date-presets .item:hover {
+    background:#ffdf71;
+}
+
+.stat-date-range.page .date-presets .item:last-child {
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+}
+
+.stat-date-range.page .date-presets .item:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+}
+
+.stat-date-range input[type=text] {
+    height:30px;
+    line-height:30px;
+    vertical-align:middle;
+    border:1px solid #3f3f3f;
+    padding-left:10px;
+    padding-top:0;
+    padding-bottom:0;
+    width:70px;
+}
+
+.stat-date-range input[type=submit] {
+    height:32px;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+         box-sizing:border-box;
+    vertical-align:middle;
+    margin-left:-20px;
+    border:1px solid #3f3f3f;
+    cursor:pointer;
+    background: -moz-linear-gradient(top, #eaeaea, #e2e2e2);
+    background: -webkit-linear-gradient(top, #eaeaea, #e2e2e2);
+    background: -o-linear-gradient(top, #eaeaea, #e2e2e2);
+    background: -ms-linear-gradient(top, #eaeaea, #e2e2e2);
+    background: linear-gradient(top, #eaeaea, #e2e2e2);
+}
+
+.stat-date-range .only-wide {
+    margin-left:30px;
+}
+
+.stat-date-range .only-wide .dash {
+    margin-left:-17px;
+}
+
+.stat-date-range .date-presets-current {
+    display:none;
+}**/
+
+/* Стили виджета */
+
+/*
+.widget .stat-date-range {
+    background:#efefef;
+    padding:10px;
+}
+
+.widget .stat-date-range .date-presets {
+    margin-right:3px;
+}
+
+.widget .stat-date-range .date-presets-current {
+    display:block;
+    color:black;
+}
+
+.widget .stat-date-range .only-wide {
+    margin-left:0;
+    display:block;
+    text-align:center;
+    position:relative;
+    z-index:1;
+}
+
+.widget .stat-date-range .from,
+.widget .stat-date-range .to {
+    width: 21%;
+    font-size:11px;
+    padding-left:2px;
+    height:28px;
+    line-height:28px;
+    border-color:#aaa;
+}
+
+.widget .stat-date-range input[type=submit] {
+    height:30px;
+    border-color:#aaa;
+}
+
+.widget .stat-date-range .date-presets-current {
+    display:block;
+    text-align:center;
+    font-size:11px;
+    background:#e2e2e2;
+    cursor:pointer;
+}
+
+.widget .stat-date-range .date-presets {
+    display:block;
+    background:#efefef;
+    margin-bottom:5px;
+    margin-left:-10px;
+    margin-right:-10px;
+    margin-top:-10px;
+    height:20px;
+    line-height:20px;
+    padding:0;
+    position:relative;
+    z-index:2;
+    overflow:visible;
+}
+
+.widget .stat-date-range .date-presets .date-presets-list {
+    position:absolute;
+    top:100%;
+    left:0;
+    width:100%;
+    background: white;
+    -webkit-box-shadow:0 3px 3px #aaa;
+    -moz-box-shadow:0 3px 3px #aaa;
+         box-shadow:0 3px 3px #aaa;
+}
+
+.widget .stat-date-range .date-presets .item {
+    height:50px;
+    line-height:50px;
+    width:25%;
+    float:left;
+    text-align:center;
+}
+
+.widget .stat-date-range .date-presets .item:hover {
+    background:#ffdf71;
+    color:black;
+}
+
+.widget .stat-date-range .date-presets-list {
+    overflow:hidden;
+    height:0;
+    opacity:0;
+    visibility:hidden;
+    transition:opacity 0.2s ease 0.3s,
+               height 0.2s ease 0.5s,
+               visibility 0s ease 0.5s;
+}
+
+.widget .stat-date-range .date-presets:hover .date-presets-list {
+    visibility:visible;
+    height:50px;
+    opacity:1;
+    transition:opacity 0.2s ease;
+}
+
+.widget .stat-nodata {
+    color: #808080;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.widget .stat-date-range .date-presets-ddown {
+    display:inline-block;
+    width:8px;
+    height:5px;
+    background:url(../img/ddown.png) no-repeat;
+    margin-left:7px;
+    vertical-align:middle;
+}
+
+.widget .stat-date-range .only-wide .dash {
+    margin-left:-20px;
+}
+
+/* Виджет в центральной колонке
+
+#col_center .widget .stat-date-range .date-presets {
+    display:inline-block;
+    position:static;
+    margin:-10px 0;
+    height:32px;
+    line-height:32px;
+}
+
+#col_center .widget .stat-date-range .date-presets-current {
+    background:none;
+    margin:-10px 0;
+    height:32px;
+    line-height:32px;
+    text-align:right;
+    margin-right:15px;
+}
+
+#col_center .widget .stat-date-range .only-wide {
+    display:inline-block;
+}
+
+#col_center .widget .stat-date-range {
+    position:relative;
+    z-index:2;
+    text-align:center;
+}
+
+#col_center .widget .stat-date-range .from,
+#col_center .widget .stat-date-range .to {
+    width:100px;
+}
+
+.widget .stat-last-period {
+    background: #efefef none repeat scroll 0 0;
+    padding-bottom: 5px;
+    padding-top: 0;
+    text-align: center;
+    border-bottom:1px solid #ddd;
+}
+
+*/
+
+.widget .stat-nodata {
+    color: #808080;
+    padding: 30px 20px;
+    text-align: center;
+}
+
+.stat-nowrap {
+    white-space:nowrap;
+}
+
+.stat-checker{
+    width: 25px;
+}
+
+.wtable.stat-key-table td {
+    vertical-align:bottom;
+}
+
+.stat-value {
+    font-weight:bold;
+    font-size:16px;
+}
+
+.stat-report .graph {
+    height:300px;
+    width:100%;
+    margin-bottom: 20px;
+}
+
+.stat-report .graph{
+    margin-bottom: 70px;
+}
+
+.stat-report .graph.week{
+    margin-bottom: 100px;
+}
+
+.stat-report .graph.ticks-rotate-60 .flot-x-axis .flot-tick-label {
+    white-space: nowrap;
+    transform: translate(-9px, 0) rotate(-60deg);
+    -webkit-transform: translate(-9px, 0) rotate(-60deg);
+    -moz-transform: translate(-9px, 0) rotate(-60deg);
+    -o-transform: translate(-9px, 0) rotate(-60deg);
+    -ms-transform: translate(-9px, 0) rotate(-60deg);
+    text-indent: -100%;
+    transform-origin: top right;
+    -webkit-transform-origin: top right;
+    -moz-transform-origin: top right;
+    -o-transform-origin: top right;
+    -ms-transform-origin: top right;
+    text-align: right !important;
+}
+
+.stat-report sup.red{
+    color: red;
+}
+
+.stat-report sup.green{
+    color: green;
+}
+
+.stat-funnel__row {
+    display:flex;
+    margin:0 20px;
+}
+
+.stat-funnel__legend {
+    flex:1;
+    padding:19px 0;
+}
+
+.stat-funnel__funnel {
+    flex:1;
+    position:relative;
+    padding:19px 0;
+}
+
+.stat-funnel__bar {
+    position:absolute;
+    top:0;
+    left:0;
+    background:#fed42b;
+    height:100%;
+}
+
+.stat-funnel__number {
+    padding-left:17px;
+    color:#333;
+    font-size:16px;
+    font-weight:bold;
+}
+
+.stat-funnel__row:nth-child(even) .stat-funnel__bar {
+    background-color:#ffb516;
+}
+
+.stat-funnel__number {
+    position:relative;
+}
+
+
+
+
+.stat-funnel .funnel-row {
+    text-align: center;
+    margin: 2px 10px;
+    color: white;
+    position:relative;
+}
+
+.stat-funnel .funnel-row .progress {
+    display: block;
+    margin: 0 auto;
+}
+
+.widget .stat-funnel .funnel-row .progress {
+    -webkit-border-radius:0 0 6px 6px;
+    -moz-border-radius:0 0 6px 6px;
+         border-radius:0 0 6px 6px;
+    opacity:0.8;
+}
+
+.stat-funnel .c1 { color:#A8B8D9; }
+.stat-funnel .c2 { color:#DDC67B; }
+.stat-funnel .c3 { color:#B7918C; }
+.stat-funnel .c4 { color:#587579; }
+.stat-funnel .c5 { color:#8A8E91; }
+.stat-funnel .c6 { color:#B8B09D; }
+.stat-funnel .c7 { color:#855A5C; }
+
+.stat-funnel .bg1 { background-color:#A8B8D9; }
+.stat-funnel .bg2 { background-color:#DDC67B; }
+.stat-funnel .bg3 { background-color:#B7918C; }
+.stat-funnel .bg4 { background-color:#587579; }
+.stat-funnel .bg5 { background-color:#8A8E91; }
+.stat-funnel .bg6 { background-color:#B8B09D; }
+.stat-funnel .bg7 { background-color:#855A5C; }
+
+.widget .stat-funnel .funnel-row .title {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:50px;
+    line-height:50px;
+    color:black;
+}
+
+.widget .stat-funnel .funnel-row .progress {
+    height:50px;
+    line-height:50px;
+}
+
+.widget .stat-funnel .funnel-row {
+    background:#fafafa;
+    margin:2px 0;
+}

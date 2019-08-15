@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Заказы на Яндекс.Маркете</name>
+        <description multilanguage="true">Модуль позволяет принимать и администрировать заказы на Яндекс.Маркете</description>
+        <version>4.0.2</version>
+        <is_system>1</is_system>
+        <author>ReadyScript lab.</author>
+        <ignore_city_unexists>1</ignore_city_unexists>
+        <reserve_until_days>3</reserve_until_days>
+        <min_pickup_days>1</min_pickup_days>
+        <max_pickup_days>14</max_pickup_days>
+        <map_local_delivery_holiday_days>0</map_local_delivery_holiday_days>
+    </defaultValues>
+</config>

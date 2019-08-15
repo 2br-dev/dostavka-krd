@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Статистика</name>
+        <description multilanguage="true">Какие товары больше всего покупают. Воронка продаж. Статистика по продажам одного товара.</description>
+        <version>3.0.8</version>
+        <author>ReadyScript lab.</author>
+        <is_system>1</is_system>        
+        <consider_orders_status type="array">
+            <value>0</value>
+        </consider_orders_status>
+    </defaultValues>
+</config>

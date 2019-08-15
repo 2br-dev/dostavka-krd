@@ -1,0 +1,250 @@
+.prof {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+/*  */
+.prof_title {
+    font-size: 30px;
+    font-weight: bold;
+    margin: 0 0 20px 0;
+}
+.prof__box {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+/*  */
+.prof__left {
+    width: 300px;
+}
+.prof__left_link {
+    font-size: 14px;
+    margin: 0 0 10px 0;
+    cursor: pointer;
+    display: block;
+}
+.prof__left_link.act {
+    text-decoration: underline;
+}
+.prof__left_link:hover {
+    text-decoration: underline
+}
+.prof__left_link span {
+    font-weight: bold;
+    color: #4767DD;
+    margin: 0 0 0 10px;
+}
+/*  */
+/*  */
+/*  */
+.prof__btn-box {
+    margin: 80px 0 0 0;
+}
+.prof__btn-link {
+    width: 100%;
+    background: #4767DD;
+    border-radius: 2px;
+    padding: 25px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.1s;
+    margin: 0 0 20px 0;
+}
+.prof__btn-icon {
+    display: block;
+    width: 50px;
+    height: auto;
+    margin: 0 15px 0 0;
+}
+.prof__btn-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 0 5px 0;
+    color: #fff;
+}
+.prof__btn-label {
+    color: #fff;
+    font-size: 14px;
+}
+/* media */
+@media screen and (max-width: 1000px) {
+    .prof {
+        padding: 15px;
+    }
+    /*  */
+    .prof_title {
+        font-size: 18px;
+        margin: 0 0 15px 0;
+    }
+    /*  */
+    .prof__left {
+        width: 250px;
+    }
+    .prof__left_link span {
+        margin: 0 0 0 5px;
+    }
+    /*  */
+    /*  */
+    /*  */
+    .prof__btn-box {
+        margin: 15px 0 0 0;
+    }
+    .prof__btn-link {
+        width: 100%;
+        background: #4767DD;
+        border-radius: 2px;
+        padding: 15px;
+        margin: 0 0 15px 0;
+    }
+    .prof__btn-icon {
+        display: block;
+        width: 30px;
+        height: auto;
+        margin: 0 10px 0 0;
+    }
+    .prof__btn-title {
+        font-size: 16px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .prof {
+        padding: 10px;
+    }
+    .prof__box {
+        flex-direction: column;
+    }
+    /*  */
+    .prof_title {
+        font-size: 14px;
+        margin: 0 0 10px 0;
+    }
+    /*  */
+    .prof__left {
+        width: 100%;
+    }
+    .prof__left_link {
+        font-size: 12px;
+        margin: 0 0 5px 0;
+    }
+    /*  */
+    .prof__btn-box {
+        display: none;
+    }
+}
+/*  */
+/*  */
+/*  */
+.prof__right {
+    width: calc(100% - 320px);
+}
+/*  */
+.lk {
+    padding: 20px;
+    border-radius: 2px;
+    border: 1px solid #e5e5e5;
+    background: #fff;
+}
+.lk__head {
+    width: 100%;
+    display: flex;
+    border: 1px solid #4767DD;
+    border-radius: 2px;
+    overflow: hidden;
+    margin: 0 0 20px 0;
+    position: relative;
+}
+.lk__head_btn {
+    width: 50%;
+    padding: 20px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #4767DD;
+    text-align: center;
+    cursor: pointer;
+}
+.lk__head_btn_active {
+    background: #4767DD;
+    color: #fff;
+}
+.profile__radio_1 {
+    position: absolute;
+    left: 0;
+    z-index: 10;
+    top: 0;
+    display: none;
+}
+.profile__radio_2 {
+    position: absolute;
+    left: 0;
+    z-index: 10;
+    top: 30px;
+    display: none;
+}
+/*  */
+.lk__item {
+
+}
+.lk__item-more {
+    display: none;
+}
+.lk__item-more_active {
+    display: block;
+}
+/*  */
+.lk .formLine input {
+    display: block;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    font-size: 14px;
+    height: initial;
+    padding: 10px;
+} 
+/*  */
+.lk__btn-box {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 20px 0 0 0; 
+}
+/*  */
+.lk__btn-submit {
+    padding: 10px 40px !important;
+    width: initial !important;
+    height: initial !important;
+    line-height: initial !important;
+    background: #fff !important;
+    color: #4767DD;
+    cursor: pointer;
+    display: block;
+    border: 1px solid #4767DD !important;
+    border-radius: 2px;
+}
+/*  */
+.lk__pass-box {
+    border: 1px solid #e5e5e5;
+    border-left: 0;
+    border-right: 0;
+    padding: 20px 0 0 0;
+}
+/*  */
+/*  */
+/*  */
+/*  */
+/* media */
+@media screen and (max-width: 1000px) {
+    .prof__right {
+        width: calc(100% - 265px);    
+    }
+    .lk {
+        padding: 10px;
+    }
+}
+@media screen and (max-width: 768px) {
+    .prof__right {
+        width: 100%;
+        margin: 10px  0 0 0;
+    }
+
+}

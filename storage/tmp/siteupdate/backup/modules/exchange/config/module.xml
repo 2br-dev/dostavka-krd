@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <defaultValues>
+        <name multilanguage="true">Обмен данными</name>
+        <description multilanguage="true">Позволяет организовывать импорт товаров, экспорт заказов</description>
+        <version>4.0.22</version>
+        <author>ReadyScript lab.</author>
+        <is_system>1</is_system>
+        <file_limit>204800</file_limit>
+        <use_log>0</use_log>
+        <catalog_import_interval>30</catalog_import_interval>
+        <catalog_keep_spec_dirs>1</catalog_keep_spec_dirs>
+        <catalog_update_parent>1</catalog_update_parent>
+        <product_update_dir>1</product_update_dir>
+        <dont_delete_prop>0</dont_delete_prop>
+        <allow_insert_multioffers>1</allow_insert_multioffers>
+        <sale_final_status_on_delivery>0</sale_final_status_on_delivery>
+        <sale_replace_currency>руб.</sale_replace_currency>
+        <export_timezone>default</export_timezone>
+        <history_depth>0</history_depth>
+        <order_flag_cancel_requisite_name>Отменен</order_flag_cancel_requisite_name>
+        <product_uniq_field>xml_id</product_uniq_field>ъ
+        <cat_for_import>0</cat_for_import>
+    </defaultValues>
+</config>

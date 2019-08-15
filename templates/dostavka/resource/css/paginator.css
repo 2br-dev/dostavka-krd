@@ -1,0 +1,133 @@
+.paginator {
+    /* width: 100%; */
+    padding: 10px 0;
+}
+.paginator .pages a {
+    font-size: 14px;
+    display: block;
+    margin: 0 10px 0 0;
+}
+.paginator .pages {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.paginator .next,
+.paginator .prev {
+    display: block;
+    width: 10px;
+    height: 10px;
+    border: 0;
+    background-color: transparent;
+    cursor: pointer;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url(../img/dostavka/icons/icon_paginator.svg);
+}
+.paginator .next {
+    margin: 0 10px 0 0;
+    transform: rotate(180deg); 
+}
+.paginator .active {
+    font-weight: bold;
+}
+/*  */
+.palette_0 .paginator .active {color: #4767DD;}
+.palette_1 .paginator .active {color: #A26AB7;}
+.palette_2 .paginator .active {color: #FFC971;}
+.palette_3 .paginator .active {color: #34B4AD;}
+.palette_4 .paginator .active {color: #FFAB66;}
+.palette_5 .paginator .active {color: #F17689;}
+.palette_6 .paginator .active {color: #83AD5E;}
+.palette_7 .paginator .active {color: #4767DD;}
+/*  */
+/*  */
+/*  */
+@media screen and (max-width: 768px) {
+    .paginator {
+        display: block;
+        width: 100%;
+    }
+    .paginator .pages a {
+        margin: 0 2px;
+    }
+    .paginator .pages {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .paginator .next,
+    .paginator .prev {
+        margin: 0;
+    }
+    .paginator .next {
+        margin: 0; 
+    }
+    .pag {
+        display: none !important;
+    }
+}
+
+
+.pag {
+    display: flex;
+    align-items: center;
+    position: relative;
+    flex-shrink: 0;
+}
+
+.pag .ddList {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.pag .ddList .value {
+    font-size: 14px;
+    padding: 0 15px 0 5px;
+    /* margin: 0 0 0 10px; */
+    align-self: center;
+    color: #757575;
+    cursor: pointer;
+    position: relative;
+}
+
+.pag .ddList .value::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    content: " ";
+    cursor: pointer;
+    height: 12px;
+    width: 12px;
+    transform: rotate(-90deg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-image: url(../img/dostavka/icons/arrow_pack/icon_arrow_none.svg);
+}
+.pag .ddList ul {
+    display: none;
+    position: absolute;
+    bottom: 100%;
+    right: 0;
+    background: #fff;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.15);
+    padding: 5px;
+    z-index: 1;
+}
+.pag .ddList ul li {
+    cursor: pointer;
+    font-size: 14px; 
+}
+
+.pag .pageSize {
+    display: flex;
+    position: relative;
+    font-size: 14px;
+}
+.p_bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}

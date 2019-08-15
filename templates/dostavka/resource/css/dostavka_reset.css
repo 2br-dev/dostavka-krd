@@ -1,0 +1,15 @@
+/* reset */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    text-decoration: none;
+    outline: none;
+    font-family: 'PF Beau Sans Pro' ;
+    font-weight: normal;
+    min-width: initial;
+    color: #000;
+}
+/*  */
+.main {
+    background-color: #FAFAFA;
+}
